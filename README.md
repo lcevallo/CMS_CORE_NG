@@ -7,4 +7,4 @@ All of the code is released under the MIT license, which means you can use them 
 
 Start Bootstrap was created by and is maintained by Lyoid Lopes aka TECHHOWDY.
 Follow Me on LINKEDIN => https://ca.linkedin.com/in/lyoid-lopes-93106717b
-WEBSITEN => https://techhowdy.com
+WEBSITE => https://techhowdy.com
